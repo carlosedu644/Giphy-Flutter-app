@@ -1,4 +1,13 @@
-# gifs
+
+
+![alt text](https://i.imgur.com/w75s1i1.png)
+![alt text](https://i.imgur.com/E2n3pPS.png)
+![alt text](https://i.imgur.com/lQnea6E.png)
+
+
+
+
+# Flutter app using giphy api
 
 A new Flutter project.
 
